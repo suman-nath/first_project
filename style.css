@@ -1,0 +1,20 @@
+body{
+	color: pink;
+}
+h1{
+  color: green;
+  text-align: center;
+}
+table{
+  border: 3px black solid;
+  
+}
+th{
+   border: 3px black solid;
+   color: blue;
+}
+td{
+   border: 3px black solid;
+   color: black;
+   text-align: center;
+}
